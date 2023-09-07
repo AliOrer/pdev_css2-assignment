@@ -1,0 +1,59 @@
+
+
+header{
+    text-align: center;
+}
+header>img{
+    height: 100px;
+    margin-top: 164px;
+}
+
+#searchbox{
+    background-color: rgba(128, 128, 128, 0.115);
+    margin: 0 40px;
+    height: 70px;
+   text-align: center;
+   padding-top: 10px;
+   margin-bottom: 1.5px;
+}
+
+#search{
+    width: 27%;
+}
+
+#but1{
+    margin-top: 1.5px;
+}
+
+#but1>a{
+    text-decoration: none;
+}
+
+#box1{
+    width: 35%;
+    background-color: aqua;
+    padding-top: 6px;
+}
+#box2{
+    width: 25%;
+    background-color: aqua;
+    padding-bottom: 40px;
+}
+#box3{
+    width: 45%;
+    background-color: aqua;
+}
+
+#boxes{
+    padding-top: 2px;
+    display: flex;
+    gap: 1.4px;
+    text-align: center;
+    height: 80px;
+    margin: 0 40px;
+}
+
+#last {
+    text-align: center;
+    padding-top: 15px;
+}
